@@ -1,0 +1,19 @@
+TestNG is a framework
+TestNG also acts as an execution engine - @Test
+When we write our code in TestNG we do not need main method
+TestNG helps us in Assertions of our test Cases
+TestNG helps us to run our test cases in Batches, parallel execution, groups
+TestNG helps us to parameterize our test cases
+TestNG also helps us to include, exclude certain Test Cases, methods in those test cases
+TestNG helps us to create very good reports - index.html, Extent Reports
+https://testng.org
+
+In our professional Automation Code most of the times
+98% times we use @BeforeMethod , @Test, @AfterMethod
+
+//Assertions
+These are validation check points.
+assertTrue
+assertEquals
+assertNotEquals
+fail

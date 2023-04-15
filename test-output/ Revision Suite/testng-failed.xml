@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ Revision Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Other test cases(failed)">
+    <classes>
+      <class name="testng_revision_7th_Apr_2023.AlwaysRun_True">
+        <methods>
+          <include name="setUpTest"/>
+        </methods>
+      </class> <!-- testng_revision_7th_Apr_2023.AlwaysRun_True -->
+    </classes>
+  </test> <!-- Other test cases(failed) -->
+</suite> <!-- Failed suite [ Revision Suite] -->

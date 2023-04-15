@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testng_revision_7th_Apr_2023.Automation_Using_BM_AM"/>
+      <class name="testng_revision_7th_Apr_2023.Annotations_In_TestNG"/>
+      <class name="testng_revision_7th_Apr_2023.AlwaysRun_True"/>
+      <class name="testng_revision_7th_Apr_2023.BM_T_AM_TriCombo"/>
+      <class name="testng_revision_7th_Apr_2023.Paramterization_TestCases"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
